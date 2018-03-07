@@ -28,4 +28,6 @@ I also wrote a simple **AI** for the **Battle Ship**.
 
 Sorry, it was one of my first codes. I did not comment it or anything.
 
-But I am still available if there are any questions.
+And as I wrote it at my beginnings, I already know that a lot of things in there can be improved.
+
+But don't hesitate if there are any questions.
